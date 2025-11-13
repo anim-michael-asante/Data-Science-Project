@@ -21,9 +21,9 @@ Each project demonstrates my ability to clean data, engineer features, build mod
 - More projects coming soon…
 
 ## Technologies
-- **Languages:** Python, R (if applicable)
-- **Libraries/Frameworks:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, TensorFlow / PyTorch (if applicable)
-- **Tools:** Jupyter Notebook, Google Colab
+- **Languages:** Python
+- **Libraries/Frameworks:** Pandas, NumPy, Scikit-Learn, Matplotlib, TensorFlow / PyTorch (if applicable)
+- **Tools:** Jupyter Notebook, Google Colab,Vs code
 
 ## Getting Started
 To get a local copy up and running:

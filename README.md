@@ -18,9 +18,6 @@ This repository contains projects where I apply machine learning and data scienc
 Each project demonstrates my ability to clean data, engineer features, build models, and evaluate performance using standard metrics.
 
 ## Project Highlights
-- **Project 1** – Predictive modeling using [dataset name], including data cleaning, feature selection, and machine learning algorithms.
-- **Project 2** – Exploratory Data Analysis (EDA) and visualization using Python libraries like Pandas, Matplotlib, and Seaborn.
-- **Project 3** – Implementation of classification and regression models using Scikit-Learn and evaluation metrics such as accuracy, precision, and RMSE.
 - More projects coming soon…
 
 ## Technologies
